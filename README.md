@@ -50,4 +50,5 @@ Used React Router’s <Navigate> to redirect unauthenticated users.
 Allowed seamless user session persistence even after page refresh.
 
 Developer: Garvit Joshi 
+
 Contact: garvitjoshi84@gmail.com
