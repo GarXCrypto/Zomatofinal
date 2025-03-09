@@ -1,6 +1,8 @@
 NOTES- 
 
 Backend Improvements
+
+
 Enhanced Security & Authentication
 
 Implemented Bcrypt.js for secure password hashing.
@@ -24,6 +26,8 @@ Ensured proper request validation to prevent malformed data entries.
 
 
 Frontend Improvements
+
+
 UI/UX Enhancements
 
 Created a responsive and visually appealing login/signup popup.
